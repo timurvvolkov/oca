@@ -7,8 +7,9 @@ public class Animal {
         name = newName;
     }
 }
- class Zooceeper {
-     public static void main(String[] args) {
-         System.out.println("Hello");
-     }
- }
+
+class ZooKeeper {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+}
