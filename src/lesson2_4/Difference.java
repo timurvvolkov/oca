@@ -8,5 +8,5 @@ public class Difference {
 
     String reference = "hello";
     int len = reference.length();
-    int bad = len.length();
+//    int bad = len.length();
 }
