@@ -4,6 +4,12 @@ public class Animal {
     private String name;
     private int age;
 
+    public static void main(String[] args) {
+
+        Bear bear = new Bear();
+        WhiteBear whiteBear = new WhiteBear();
+    }
+
     public String getName() {
         return name;
     }
