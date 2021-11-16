@@ -1,6 +1,9 @@
 package lesson6_3;
 
 public class DefInterface {
+    public static void main(String[] args) {
+        System.out.println(CanSwim1.MAXIMUM_DEPTH);
+    }
 }
 
 interface WalksOnTwoLegs {}
