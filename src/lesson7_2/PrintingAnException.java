@@ -35,5 +35,4 @@ public class PrintingAnException {
     private static void readInFile() throws IOException {
         throw new IOException();
     }
-    // end
 }
